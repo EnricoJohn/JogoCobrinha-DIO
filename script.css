@@ -1,0 +1,13 @@
+html,
+body,
+canvas {
+    margin: 0;
+    padding: 0;
+    height: 85vh;
+    width: 85;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    color: green;
+}
